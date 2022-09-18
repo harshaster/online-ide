@@ -246,7 +246,7 @@ input[type="submit"]:hover{
         err:false,
         night : false,
         lang: localStorage.getItem("lang") ?  this.lang=localStorage.getItem("lang") : "",
-        BACKEND : "http://tec-up.herokuapp.com/" ,
+        BACKEND : "https://tec-up.herokuapp.com/" ,
         boiler : {
           'py' : '',
           'js' : '',
