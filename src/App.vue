@@ -231,6 +231,9 @@ input[type="submit"]:hover{
   color: white;
   border: 1px solid rgba(211, 211, 211, 0.377);
 }
+option{
+  background-color: #121212;
+}
 
 
 </style>
